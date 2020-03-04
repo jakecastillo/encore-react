@@ -1,0 +1,42 @@
+.ui.topmenu.menu {
+  background-color: #e2231a;
+  margin: 0px;
+  height: 80px;
+  border-radius: 0px;
+}
+
+.encore-background {
+  background: url(http://courses.ics.hawaii.edu/ics314s20/morea/ui-frameworks/rwod-encore-saloon-image.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 600px;
+  color: white;
+}
+
+.ui.menu .item, .ui.menu .ui.dropdown.item .menu, .ui.menu .ui.dropdown.item .menu .item, .footer {
+  color: #ffffff !important;
+  background-color: #e2231a;
+  font-family: Arvo;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: .075em;
+  line-height: 2em;
+}
+
+.footer-one {
+  padding: 80px 8% !important;
+  color: #ffffff;
+  background-color: #e2231a;
+  font-family: Arvo;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: .075em;
+  line-height: 2em;
+  text-align: center;
+}
+
+a {
+  color: #ffffff !important;
+  text-decoration: underline !important;
+}
